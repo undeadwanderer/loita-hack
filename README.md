@@ -17,7 +17,7 @@ Version history:
   * Added "Repeat" and "Shuffle" buttons.
 
 Known issues: 
-* Loita had a shortcut to open the configuration menu on middle-clicking the main skin, but it refuses to work in my mod for some reason even though I haven't changed any code related to this. Looking into this issue. For the moment the config skin can be loaded by right-clicking the main skin and navigating to "Loita hack\Config\Config.ini" ot through the "Manage Rainmeter" window.
+* Loita had a shortcut to open the configuration menu by middle-clicking the main skin, but it refuses to work in my mod for some reason even though I haven't changed any code related to this. Looking into this issue. For the moment the config skin can be loaded by right-clicking the main skin and navigating to "Loita hack\Config\Config.ini" ot through the "Manage Rainmeter" window.
 * I've only tested the skin with iTunes; it might not work as well with other players; I saw people complaining about issues with other players on Loita's page; I assume that those issues are because of the NowPlaying plugin and not of the skin code so I can't do anything about it anyway.
 * The icons could be better but I don't have much experience with pixelart; tried my best to make them blend in with the rest of the buttons.
 * "Repeat" function only switches between off and repeat track, can't do anything about that since it's a NowPlaying limitation.
