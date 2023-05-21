@@ -13,6 +13,9 @@ Credits:
 
 Version history:
 
+1.1.1.2 / May 21, 2023
+* Made changing the options in the config skin to refresh only the main Loita skin instead of all skins.
+
 1.1.1.1 / May 20, 2023
 * Fix for the config skin shortcut not working.
 
