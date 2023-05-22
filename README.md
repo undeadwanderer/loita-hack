@@ -20,7 +20,7 @@ Version history:
 1.1.2 / May 22, 2023
 * The skin now uses RainRGB4 instead of RainRGB as color picker.
 * Included RainRGB4 in the skin package.
-	* The previous releases of the skin do not work because there was no way to include the earlier version of the addon into the package with the official package creator because it had a hardcoded installation path.
+	* The previous releases of the skin do not work without the version of RainRGB they used already installed because there was no way to include the earlier version of the addon into the package with the official package creator because it had a hardcoded installation path.
 * Fixed the config and main skins not refreshing after changing colores with RainRGB, confing skin will now update all its measures after changing any of the other options.
 
 1.1.1.2 / May 21, 2023
