@@ -6,8 +6,11 @@ Disclaimer: I don't plan to update the skin with more features because the only 
 Requirements:
 * Rainmeter v4.5, only tested the skin in this version.
 
+Supported players:
+* Basically all that NowPlaying supports. I don't currently plan to introduce support for more players.
+
 How to use:
-* Middle-click the skin to show the options menu where you can choose the player and theme.
+* Middle-click the skin to show the options menu where you can choose the player the skin will get the data from and theme.
 
 Credits & included resources:
 * [poiru](https://www.deviantart.com/poiru) for [Soita Rainmeter skin](https://www.deviantart.com/poiru/art/Soita-for-Rainmeter-209864541).
@@ -42,3 +45,4 @@ Known issues:
 
 To do:
 * Looking into a possibility of replacing RainRGB with ColorPicker so the skin won't depend on any executables.
+* The icons need to be moved into the @Resources folder.
