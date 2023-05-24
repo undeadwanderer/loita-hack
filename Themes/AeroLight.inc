@@ -7,7 +7,7 @@ BackOp=128
 BorderColor=EEEEEE
 BorderOp=64
 
-Cover=WDefault.png
+Cover=#@#WDefault.png
 ColorButton=333333
 ColorStars=#ColorButton#
 StarsOp=255

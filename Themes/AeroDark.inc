@@ -7,7 +7,7 @@ BackOp=128
 BorderColor=000000
 BorderOp=64
 
-Cover=Default.png
+Cover=#@#Default.png
 ColorButton=FFFFFF
 ColorStars=#ColorButton#
 StarsOp=255
