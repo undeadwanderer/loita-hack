@@ -13,9 +13,9 @@ How to use:
 * Middle-click the skin to show the options menu where you can choose the player the skin will get the data from and theme.
 
 Credits & included resources:
-* [poiru](https://www.deviantart.com/poiru) for [Soita Rainmeter skin](https://www.deviantart.com/poiru/art/Soita-for-Rainmeter-209864541).
-* [Lgv91](https://www.deviantart.com/lgv91) for [Loita Rainmeter skin](https://www.deviantart.com/lgv91/art/Loita-265348874).
-* [jsmorley](https://www.rainmeter.net/) for [RainRGB4 addon](https://forum.rainmeter.net/viewtopic.php?t=6215).
+* [poiru](https://www.deviantart.com/poiru) for [Soita Rainmeter skin](https://www.deviantart.com/poiru/art/Soita-for-Rainmeter-209864541) (licensed under Creative Commons BY-NC-SA 3.0).
+* [Lgv91](https://www.deviantart.com/lgv91) for [Loita Rainmeter skin](https://www.deviantart.com/lgv91/art/Loita-265348874) & config tool for it (licensed under Creative Commons BY-NC-SA 3.0).
+* [jsmorley](https://www.rainmeter.net/) for [RainRGB4 addon](https://forum.rainmeter.net/viewtopic.php?t=6215) (licensed under Creative Commons BY-NC-SA 3.0).
 * "Repeat" and "Shuffle" button icons made by me.
 
 Version history:
