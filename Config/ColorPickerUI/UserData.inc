@@ -9,3 +9,8 @@ ScriptMeasure=ColorPicker
 Theme=Dark
 Animations=2
 Active=0
+
+Hue=180
+Saturation=1
+Value=1
+Alpha=1

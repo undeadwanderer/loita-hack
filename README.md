@@ -25,6 +25,11 @@ A Soita-like Rainmeter skin that displays track information from and controls va
 
 ### Version history:
 
+1.1.3.1 / April 18, 2024
+- Updated ColorPickerUI to version 2.1.2 of my fork.
+- - Now when changing element colors the current color is loaded on picker skin initialization instead of a pre-set one.
+- - Fixed a typo in Functions.lua.
+
 1.1.3 / May 24, 2023
 * Player volume can now be adjusted by using the scrollwheel over any area of the main skin.
 * Moved the image files into @Resources.
