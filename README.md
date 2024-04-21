@@ -36,33 +36,35 @@ A Soita-like Rainmeter skin that displays track information from and controls va
 
 ### Version history:
 
+```
 1.1.3.1 / April 18, 2024
-- Updated ColorPickerUI to version 2.1.2 of my fork.
-    - Now the current color of the element is loaded on picker skin initialization instead of a pre-set one when changing colors.
-    - Fixed a typo in Functions.lua.
+• Updated ColorPickerUI to version 2.1.2 of my fork.
+    • Now the current color of the element is loaded on picker skin initialization instead of a pre-set one when changing colors.
+    • Fixed a typo in Functions.lua.
 
 1.1.3 / May 24, 2023
-* Player volume can now be adjusted by using the scrollwheel over any area of the main skin.
-* Moved the image files into @Resources.
-* Switched from RainRBG to ColorPickerUI by Deathcrafter.
+• Player volume can now be adjusted by using the scrollwheel over any area of the main skin.
+• Moved the image files into @Resources.
+• Switched from RainRBG to ColorPickerUI by Deathcrafter.
 
 1.1.2 / May 22, 2023
-* The skin now uses RainRGB4 instead of RainRGB as color picker.
-* Included RainRGB4 in the skin package.
-    * The previous releases of the skin do not work without the version of RainRGB they used already installed (by installing the original Loita skin for example) because there was no way to include the earlier version of the addon into the package with the official package creator because it had a hardcoded installation path.
-* Fixed the config and main skins not refreshing after changing colores with RainRGB, confing skin will now update all its measures after changing any of the other options.
+• The skin now uses RainRGB4 instead of RainRGB as color picker.
+• Included RainRGB4 in the skin package.
+    • The previous releases of the skin do not work without the version of RainRGB they used already installed (by installing the original Loita skin for example) because there was no way to include the earlier version of the addon into the package with the official package creator because it had a hardcoded installation path.
+• Fixed the config and main skins not refreshing after changing colores with RainRGB, confing skin will now update all its measures after changing any of the other options.
 
 1.1.1.2 / May 21, 2023
-* Made changing the options in the config skin to refresh only the main Loita skin instead of all skins.
+• Made changing the options in the config skin to refresh only the main Loita skin instead of all skins.
 
 1.1.1.1 / May 20, 2023
-* Fix for the config skin shortcut not working.
+• Fix for the config skin shortcut not working.
 
 1.1.1 / May 20, 2023
 
-* Initial commit and release.
-* Changes from the original skin:
-  * Added "Repeat" and "Shuffle" buttons.
+• Initial commit and release.
+• Changes from the original skin:
+  • Added "Repeat" and "Shuffle" buttons.
+```
 
 ### Known issues: 
 * I've only tested the skin with iTunes; it might not work as well with other players; I saw people complaining about issues with other players on Loita's DeviantArt page; I assume that those issues are because of the NowPlaying plugin and not of the skin code so I can't do anything about it anyway.
