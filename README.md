@@ -32,7 +32,7 @@ Example screenshot:
 
 1.1.3.1 / April 18, 2024
 - Updated ColorPickerUI to version 2.1.2 of my fork.
-    - Now when changing element colors the current color is loaded on picker skin initialization instead of a pre-set one.
+    - Now the current color of the element is loaded on picker skin initialization instead of a pre-set one when changing colors.
     - Fixed a typo in Functions.lua.
 
 1.1.3 / May 24, 2023
