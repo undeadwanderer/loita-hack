@@ -5,7 +5,8 @@ Example screenshot:
 
 ![](https://64.media.tumblr.com/9a44b0639be2a39f121b1d80b3debcf2/6aa9c3f004f12ddc-81/s500x750/6313f01584ec7a75af5e2f7e28cb1e9ab8dc62b5.pnj)
 
-### Disclaimer: I don't plan to update the skin with more features because the only new feature I need atm is the repeat and shuffle buttons; I'm also not sure what else can the NowPlying plugin do, plus I'm not much of a programmer and made this mod for personal use.
+### Disclaimer: 
+* I don't plan to update the skin with more features because the only new feature I need atm is the repeat and shuffle buttons; I'm also not sure what else can the NowPlying plugin do, plus I'm not much of a programmer and made this mod for personal use.
 
 ### Requirements:
 * Rainmeter v4.5, only tested the skin in this version.
