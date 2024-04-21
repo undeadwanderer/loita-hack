@@ -1,9 +1,15 @@
 # Loita hack
 A Soita-like Rainmeter skin that displays track information from and controls various media players. This is a mod of Loita by Lgv91, itself a mod of Soita which added a settings skin with theme customization, that adds repeat and shuffle buttons to the interface and updates the color picker to a working and non-.exe variant.
 
-Example screenshot:
+### Example screenshots:
 
-![](https://64.media.tumblr.com/9a44b0639be2a39f121b1d80b3debcf2/6aa9c3f004f12ddc-81/s500x750/6313f01584ec7a75af5e2f7e28cb1e9ab8dc62b5.pnj)
+**Player**
+
+![](https://64.media.tumblr.com/9a44b0639be2a39f121b1d80b3debcf2/6aa9c3f004f12ddc-81/s500x750/6313f01584ec7a75af5e2f7e28cb1e9ab8dc62b5.pnj) 
+
+**Configuration**
+
+![](https://64.media.tumblr.com/a518c9f64ba20acd5a839f5207738894/6aa9c3f004f12ddc-5a/s400x600/88fc373be62063e6a799ef500ea737a041b2f182.pnj) ![](https://64.media.tumblr.com/fb5364e33fc4d622c4e07d1d5c9bee5d/6aa9c3f004f12ddc-11/s400x600/3c1bc075c3f0f0129e09935f555b848ed5000dc3.pnj)
 
 ### Disclaimer: 
 * I don't plan to update the skin with more features because the only new feature I need atm is the repeat and shuffle buttons; I'm also not sure what else can the NowPlying plugin do, plus I'm not much of a programmer and made this mod for personal use.
