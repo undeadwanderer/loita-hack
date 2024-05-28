@@ -53,14 +53,15 @@ A Soita-like Rainmeter skin that displays track information from and controls va
 1.1.2 / May 22, 2023
 • The skin now uses RainRGB4 instead of RainRGB as color picker.
 • Included RainRGB4 in the skin package.
-    • The previous releases of the skin do not work without the version of RainRGB they used already installed
-      (by installing the original Loita skin for example) because there was no way to include the earlier version
-      of the addon into the package with the official package creator because it had a hardcoded installation path.
-• Fixed the config and main skins not refreshing after changing colores with RainRGB, confing skin will now update
-  all its measures after changing any of the other options.
+    • The previous releases of the skin do not work without the version of RainRGB they used
+      already installed (by installing the original Loita skin for example) because there was
+      no way to include the earlier version of the addon into the package with the official
+      package creator because it had a hardcoded installation path.
+• Fixed the config and main skins not refreshing after changing colores with RainRGB,
+  the config skin will now update all its measures after changing any of the other options.
 
 1.1.1.2 / May 21, 2023
-• Made changing the options in the config skin to refresh only the main Loita skin instead of all skins.
+• Made changing the options in the config skin to refresh only Loita instead of all skins.
 
 1.1.1.1 / May 20, 2023
 • Fix for the config skin shortcut not working.
