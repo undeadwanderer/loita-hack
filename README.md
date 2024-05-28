@@ -12,7 +12,7 @@ A Soita-like Rainmeter skin that displays track information from and controls va
 ![](https://64.media.tumblr.com/a518c9f64ba20acd5a839f5207738894/6aa9c3f004f12ddc-5a/s400x600/88fc373be62063e6a799ef500ea737a041b2f182.pnj) ![](https://64.media.tumblr.com/fb5364e33fc4d622c4e07d1d5c9bee5d/6aa9c3f004f12ddc-11/s400x600/3c1bc075c3f0f0129e09935f555b848ed5000dc3.pnj)
 
 ### Disclaimer: 
-* I don't plan to update the skin with more features because the only new feature I need atm is the repeat and shuffle buttons; I'm also not sure what else can the NowPlying plugin do, plus I'm not much of a programmer and made this mod for personal use.
+* I don't plan to update the skin with more features because the only new feature I wanted to implement for now were the repeat and shuffle buttons; I'm also not sure what else can the NowPlying plugin do, plus I'm not much of a programmer and made this mod for personal use.
 
 ### Requirements:
 * Rainmeter v4.5, only tested the skin in this version.
