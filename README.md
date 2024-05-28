@@ -61,7 +61,7 @@ A Soita-like Rainmeter skin that displays track information from and controls va
   the config skin will now update all its measures after changing any of the other options.
 
 1.1.1.2 / May 21, 2023
-• Made changing the options in the config skin to refresh only Loita instead of all skins.
+• Made changing the options in the config skin to only refresh Loita instead of all skins.
 
 1.1.1.1 / May 20, 2023
 • Fix for the config skin shortcut not working.
