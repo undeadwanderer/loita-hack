@@ -1,5 +1,5 @@
 # Loita hack
-A Soita-like Rainmeter skin that displays track information from and controls various media players. This is a mod of Loita by Lgv91, itself a mod of Soita which added a settings skin with theme customization, that adds repeat and shuffle buttons to the interface and changes the outdated color picker to a functioning and non-.exe variant.
+A Soita-like Rainmeter skin that displays track information from and controls various media players. This is a mod of Loita by Lgv91 (itself a mod of Soita which added a settings skin with theme customization), that adds repeat and shuffle buttons to the interface and changes the outdated color picker to a functioning and non-.exe variant.
 
 ### Example screenshots:
 
@@ -14,7 +14,7 @@ A Soita-like Rainmeter skin that displays track information from and controls va
 
 
 ### Disclaimer: 
-* I don't plan to update the skin with more features because the only new feature I wanted to implement for now were the repeat and shuffle buttons; I'm also not sure what else can the NowPlying plugin do, plus I'm not much of a programmer and made this mod for personal use.
+* I don't plan to update the skin with more features because the only new feature I wanted to implement for now were the repeat and shuffle buttons and a better color picker; I'm also not sure what else can the NowPlying plugin do.
 
 ### Requirements:
 * Rainmeter v4.5, only tested the skin in this version.
@@ -75,5 +75,5 @@ A Soita-like Rainmeter skin that displays track information from and controls va
 
 ### Known issues: 
 * I've only tested the skin with iTunes; it might not work as well with other players; I saw people complaining about issues with other players on Loita's DeviantArt page; I assume that those issues are because of the NowPlaying plugin and not of the skin code so I can't do anything about it anyway.
-* The icons could be better but I don't have much experience with pixelart; tried my best to make them blend in with the rest of the buttons.
+* The icons could be better but I don't have much experience with pixel art; tried my best to make them blend in with the rest of the buttons.
 * "Repeat" function only switches between "off" and "repeat track", can't do anything about that since it's a NowPlaying limitation.
