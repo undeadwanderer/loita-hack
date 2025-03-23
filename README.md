@@ -1,5 +1,5 @@
 # Loita hack
-A Soita-like Rainmeter skin that displays track information from and controls various media players. This is a mod of Loita by Lgv91 (itself a mod of Soita which added a settings skin with theme customization), that adds repeat and shuffle buttons to the interface and changes the outdated color picker to a functioning and non-.exe variant.
+A Soita-like Rainmeter skin that displays track information from and controls various media players. This is a mod of [Loita](https://www.deviantart.com/lgv91/art/Loita-265348874) by Lgv91 (itself a mod of Soita which added a settings skin with theme customization), that adds repeat and shuffle buttons to the interface and changes the outdated color picker to a functioning and non-.exe variant.
 
 ### Example screenshots:
 
